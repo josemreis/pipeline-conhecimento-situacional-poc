@@ -39,7 +39,16 @@ Este documento compila fontes de dados a utilizar na pipeline. Estrutura das ent
   * **URL**: https://cert.europa.eu/publications/threat-intelligence/cb24-08/json 
   * **Notas**: 
 
-------------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+* **CISA Cybersecurity Advisories**
+  * **Formato dos dados**: PDF
+  * **Método de extração recomendado**: PDF Parsing
+  * **URL**: https://www.cisa.gov/sites/default/files/2024-10/aa24-290a-iranian-cyber-actors-conduct-brute-force-and-credential-access-activity.pdf
+  * **Notas**: Alguns "advisories" contêm dados STIX com IoCs dos incidentes em JSON
+
+
+-----------------------------------------------------------------------
 
 * **...**
   * **Formato dos dados**: ...
