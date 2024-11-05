@@ -27,6 +27,14 @@ Este documento compila fontes de dados a utilizar na pipeline. Estrutura das ent
   * **URL**: https://emm.newsbrief.eu/rss/rss?type=category&id=ECnews&language=all&duplicates=false 
   * **Notas**: Os parâmetros URL podem ser manipulados para filtrar eventos e  geografias relevantes
 
+------------------------------------------------------------------------
+
+* **...**
+  * **Formato dos dados**: ...
+  * **Método de extração recomendado**: ...
+  * **URL**: ...
+  * **Notas**: ...
+ 
 
 ------------------------------------------------------------------------
 
@@ -38,6 +46,14 @@ Este documento compila fontes de dados a utilizar na pipeline. Estrutura das ent
   * **URL**: https://cert.europa.eu/publications/threat-intelligence/cb24-08/json 
   * **Notas**: 
 
+------------------------------------------------------------------------
+
+* **...**
+  * **Formato dos dados**: ...
+  * **Método de extração recomendado**: ...
+  * **URL**: ...
+  * **Notas**: ...
+ 
 
 ------------------------------------------------------------------------
 
