@@ -37,7 +37,7 @@ Este documento compila fontes de dados a utilizar na pipeline. Estrutura das ent
   * **Formato dos dados**: JSON
   * **Método de extração recomendado**: JSON Parsing
   * **URL**: https://cert.europa.eu/publications/threat-intelligence/cb24-08/json 
-  * **Notas**: 
+  * **Notas**: RSS Feed para identificar os URL: https://cert.europa.eu/publications/threat-intelligence-rss
 
 -----------------------------------------------------------------------
 
